@@ -21,7 +21,13 @@
 </p>
 
 
-### Blog
+## Videos
+
+### Video Series
+* [x86 Assembly with NASM by @olivestemlearning](https://youtube.com/playlist?list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&si=AiSdoKwe9n1Qj0BI)
+
+## Blog
+
 
 ##
 

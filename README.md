@@ -23,7 +23,11 @@
 
 ## Videos
 
+* [C to Assembly by MIT OpenCourseWare](https://youtu.be/wt7a5BOztuM?si=_Ul2f91nD4z_pGm-)
+* [Assembly Language & Computer Architecture by MIT OpenCourseWare](https://youtu.be/L1ung0wil9Y?si=Yj2C1hLofKAiguIR)
+
 ### Video Series
+
 * [x86 Assembly with NASM by @olivestemlearning](https://youtube.com/playlist?list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&si=AiSdoKwe9n1Qj0BI)
 
 ## Blog

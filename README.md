@@ -25,10 +25,12 @@
 
 * [C to Assembly by MIT OpenCourseWare](https://youtu.be/wt7a5BOztuM?si=_Ul2f91nD4z_pGm-)
 * [Assembly Language & Computer Architecture by MIT OpenCourseWare](https://youtu.be/L1ung0wil9Y?si=Yj2C1hLofKAiguIR)
-
+* [Modern X86 Assembly Language Programming • Daniel Kusswurm & Matt Godbolt • GOTO 2025](https://youtu.be/L2Qu9rk05rE?si=Y-amR2DxZhrNUNv4)
+* [x86 NASM Assembly Crash Course by @UMBCIEEE](https://youtu.be/DNPjBvZxE3E?si=6DlGMV_Rba3C62Bz)
 ### Video Series
 
 * [x86 Assembly with NASM by @olivestemlearning](https://youtube.com/playlist?list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&si=AiSdoKwe9n1Qj0BI)
+* [Intro to x86 Assembly Language by @DavyBot](https://youtube.com/playlist?list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe&si=YQd2A6sn7v1RRnr4)
 
 ## Blog
 

@@ -20,6 +20,10 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
+## Books
+* [The Art of 64-Bit Assembly, Volume 1: x86-64 Machine Organization and Programming](https://www.amazon.com/Art-64-Bit-Assembly-Language-ebook/dp/B08H177DFB)
+* [The Art of 64-Bit Assembly, Volume 2: Machine-Level OOP, Exceptions, and Concurrency](https://www.amazon.com/Art-64-Bit-Assembly-Advanced-Language-ebook/dp/B0FLB438RC)
+* [The Art of ARM Assembly, Volume 1: 64-Bit ARM Machine Organization and Programming](https://www.amazon.com/Art-ARM-Assembly-Randall-Hyde/dp/1718502826)
 
 ## Videos
 
